@@ -1,0 +1,33 @@
+.header {
+    background: white;
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid #fbbe01;
+  }
+  
+  .logo {
+    font-size: 1.8rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    color: black;
+  }
+  
+  .logo-icon {
+    font-size: 2rem;
+    margin-right: 8px;
+    color: #fbbe01;
+  }
+  
+  .logo-text {
+    font-family: "Arial", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  .highlight {
+    color: #fbbe01; /* Yellow for 'Gate' */
+  }
+  
